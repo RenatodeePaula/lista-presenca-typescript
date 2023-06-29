@@ -12,7 +12,7 @@ Lista de presença feita utilizando TypeScript
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src="./preview.jpg" width="100%">
+  <img alt="Lista de Presença com TypeScript" src="./preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -29,10 +29,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de aplicação de lista de presença para adicionar usuário e horário.
 
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
 ---
 
 Feito com ♥ by Rocketseat :wave: [Participe da  comunidade!](https://discord.gg/rocketseat)
